@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🏷️ HologramsForAllay
+# 🏷️ Holograms For Allay
 
 **Powerful and Flexible Hologram System for Allay**
 
@@ -16,7 +16,7 @@
 
 ---
 
-**HologramsForAllay** is a feature-rich hologram plugin for **Allay** servers. Create floating text displays with multi-line support, per-player localization, and PlaceholderAPI integration. Perfect for server info, rules, welcomes, and dynamic displays.
+**Holograms** is a feature-rich hologram plugin for **Allay** servers. Create floating text displays with multi-line support, per-player localization, and PlaceholderAPI integration. Perfect for server info, rules, welcomes, and dynamic displays.
 
 ### ✨ Features
 - **Easy Creation**: GUI-based hologram creation and editing via forms.
